@@ -16,7 +16,7 @@ int main() {
 
     printf("Added code hehehe");
 
-    printf("Added code for other branch named dev1");
-
+    printf("Added code for blablabla");
+     printf("Added code again for other branch named dev2");
     return 0;
 }
