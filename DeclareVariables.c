@@ -14,7 +14,7 @@ int main() {
     printf("Grade: %c\n", grade);
     printf("Name: %s\n", name);
 
-
+    printf("Added code hehehe");
 
     return 0;
 }
